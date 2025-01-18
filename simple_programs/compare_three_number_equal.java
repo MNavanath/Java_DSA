@@ -1,5 +1,4 @@
 package simple_programs;
-import java.util.*;
 
 public class compare_three_number_equal {
     public static boolean compareNumbers(int a, int b, int c){

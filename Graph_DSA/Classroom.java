@@ -26,6 +26,7 @@ public class Classroom {
     }
     public static void main(String[] args){
         int v = 4;
+        @SuppressWarnings("unchecked")
         ArrayList<Edge> graph[] = new ArrayList[v];
 
         //print 2's neighbours

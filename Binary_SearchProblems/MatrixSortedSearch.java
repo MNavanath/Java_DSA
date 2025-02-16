@@ -9,7 +9,7 @@ public class MatrixSortedSearch {
                 {4,5,6},
                 {7,8,9}
         };
-        System.out.println(Arrays.toString(Search(arr,99)));
+        System.out.println(Arrays.toString(Search(arr,6)));
         System.out.println();
 
     }

@@ -21,8 +21,8 @@ public class Nto1{
         if (n==0){
             return;
         }
-
-        n_to_1_2(n-1);
         System.out.print(n);
+        n_to_1_2(n-1);
+
     }
 }

@@ -22,6 +22,7 @@ public class reverse2 {
     }
 
     static boolean isPalindrome(int n){
+
         return n == rev2(n);
     }
 }

@@ -2,7 +2,8 @@ package RecursionLevel1;
 
 public class productOfDigits {
     public static void main(String[] args) {
-        System.out.println(pod(1342));
+
+        System.out.println(pod(2324));
     }
 
     static int pod(int n){
